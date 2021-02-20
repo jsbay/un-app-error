@@ -9,7 +9,7 @@
 <script>
 	import { uniList } from '@dcloudio/uni-ui'
 	export default {
-		commponents: { uniList },
+		components: { uniList },
 		data() {
 			return {
 				accounts: []
